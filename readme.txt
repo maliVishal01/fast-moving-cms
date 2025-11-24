@@ -6,7 +6,7 @@
 
 **Fast Moving** is a Courier Management System designed to streamline delivery operations, staff coordination, and administrative control. Built with HTML and backend integration (Flask/Django recommended), it offers a responsive interface for both admin and staff users.
 
----
+--- and i dont uplod view logic or url if you give contact me / malivishal28711@gmail.com--- for use my project without permision you can also learn insted of copy paste--
 
 ## 🧭 Overview
 

@@ -1,13 +1,6 @@
-# fast-moving-cms
-courier management system 
-बिलकुल Mali 👍 — आपने सही कहा कि आपके **Fast Moving Courier Management System** में **branch management** भी शामिल है।  
-मैं आपके professional `README.md` में अब **branch features** को भी जोड़ देता हूँ ताकि GitHub पर पूरा documentation complete लगे।
 
----
 
-## 📄 Updated README.md (with Branch Management)
 
-```markdown
 # Fast Moving 🚚📦
 
 **Fast Moving** is a Courier Management System designed to streamline delivery operations, staff coordination, and administrative control. Built with HTML and backend integration (Flask/Django recommended), it offers a responsive interface for both admin and staff users.
